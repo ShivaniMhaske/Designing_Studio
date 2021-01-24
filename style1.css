@@ -1,0 +1,27 @@
+h3{
+	margin-left: 60px;
+	font-weight: 100px; 
+}
+h5{
+	color: white;
+	margin-left: 80px;
+	font-size: 30px;
+}
+
+.bckg{
+	background-image: url('bg_1.jpg');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color:white;
+	text-align: center;
+	}
+.sample{
+	background-color: #4d94ff;
+	height: 900px;
+	border-radius: 110px;
+
+}
+
+.Design{
+	margin-left: 30px;
+}
